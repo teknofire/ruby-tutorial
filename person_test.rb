@@ -1,8 +1,16 @@
+=begin
+
+run this using `ruby -I. person_test.rb` or just run `rake` from the root of the repo
+  -I sets the include directory to use
+
+Lots of test code here, 
+  you'll see in pratice when using testing with RoR framework a lot of this will not be necessary
+  as we are testing some basic functionality that already convered by the frameworks built in tests
+
+=end
+
 require "test/unit"
 require "person"
-
-# Lots of test code here, you'll see in pratice when using testing with RoR framework a lot of this will not be necessary
-# as we are testing some basic functionality of ruby that already convered by the frameworks built in tests
 
 class PersonTest < Test::Unit::TestCase
   def setup

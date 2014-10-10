@@ -14,7 +14,8 @@ Things that should be covered as part of this
   3. methods and the sometimes special characters used
   4. returning values
   5. helper methods
-4. Errors
+4. Including other code
+5. Errors
 
 ## Resources
 
