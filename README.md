@@ -16,7 +16,7 @@ Things that should be covered as part of this
   5. helper methods
 4. Errors
 
-## Other resources
+## Resources
 
 1. http://apidock.com/ruby
 2. http://apidock.com/rails
