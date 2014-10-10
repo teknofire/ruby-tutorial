@@ -2,6 +2,25 @@
 
 Here is a quick set of ruby code to give an overview of ruby things
 
+Things that should be covered as part of this
+
+1. Comments
+1. Strings 
+  1. Different types (\", \', and symbols)
+  1. Manipulating them
+1. Creating a class
+  1. Naming
+  1. Variable types (instance, class, constants)
+  1. methods and the sometimes special characters used
+  1. returning values
+  1. helper methods
+1. Errors
+
+## Other resources
+
+1. http://apidock.com/ruby
+1. http://apidock.com/rails
+
 
 ## What this tutorial expects
 
