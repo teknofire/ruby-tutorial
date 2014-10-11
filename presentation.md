@@ -2,11 +2,13 @@
 
 Line comments: anything that shows up after a ```#``` in a line of code becomes a comment.  The comment symbol does not have to be at the start of the line
 
-  ``` # this is a line based comment```
+```ruby
+  # this is a line based comment
+```
 
 ---
 
-## comments
+## Comments
 
 Block comments: look like
 
@@ -16,6 +18,12 @@ Block comments: look like
   no spaces allowed before the =begin or =end
 =end
   ```
+
+---
+
+## Semicolons (;)
+
+They are not required in ruby but can be used if you have a "squish" multiple lines of code together.  I only ever due that when I'm using the debug tools.  Never in my production code
 
 ---
 
@@ -236,12 +244,6 @@ See: https://github.com/bbatsov/ruby-style-guide#naming
   class RealPerson; end     # good
   class Fake_person; end    # valid but not great
 ```
-
----
-
-## Note about semicolons (;)
-
-They are not required in ruby but can be used if you have a "squish" multiple lines of code together.  I only ever due that when I'm using the debug tools.  Never in my production code
 
 ---
 
