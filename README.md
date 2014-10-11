@@ -11,7 +11,7 @@ Things that should be covered as part of this
 3. Creating a class
   1. Naming
   2. Variable types (instance, class, constants)
-  3. methods and the sometimes special characters used
+  3. methods, special characters, params and default values
   4. returning values
   5. helper methods
 4. Including other code
@@ -22,6 +22,7 @@ Things that should be covered as part of this
 1. http://apidock.com/ruby
 2. http://apidock.com/rails
 3. http://www.codeschool.com
+4. https://github.com/bbatsov/ruby-style-guide
 
 
 ## What this tutorial expects
